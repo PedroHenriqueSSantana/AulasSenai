@@ -8,7 +8,7 @@ programa
 	
      inteiro opcao
 	cadeia  nome, enter
-     inteiro   idade
+     inteiro   idades
 	
 	funcao inicio()
 	{	
