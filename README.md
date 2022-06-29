@@ -1,2 +1,2 @@
 # AulasSenai
-Projetos em .por com portugol Studio 
+Projetos em .por com portugol Studio.
